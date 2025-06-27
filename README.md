@@ -40,15 +40,13 @@ This includes supervised learning, model evaluation, neural network architecture
 - ✅ Predicted housing prices using linear regression with MAE/MSE evaluation  
 - ✅ Built a classification model with logistic regression and ROC analysis  
 - ✅ Developed basic neural networks using Keras with ReLU and Softmax  
-- ✅ Applied normalization and feature engineering to improve accuracy  
+- ✅ Applied normalization and feature engineering to improve accuracy
 
 
 
-## 🖼️ (Optional) Thumbnail Preview
 
-You can include a diagram like the one below for visual clarity:  
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Python](https://img.shields.io/badge/python-3.9-blue)
+![Framework](https://img.shields.io/badge/TensorFlow%20%7C%20Scikit--learn-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-```markdown
-<p align="center">
-  <img src="ml_dl_overview.png" alt="ML and DL Concepts Overview" width="600"/>
-</p>
